@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+    line-height: 1.25;
+}
+
+.container{
+
+}
+
+.container .left-side{
+width:max-content;
+align-items: center;
+padding-bottom:280px;
+text-align: left;
+margin-top: 50px;
+margin-left: 100px;
+padding-left: 0px;
+padding-right: 0px;
+background-color: #211733e5;
+color:rgb(226, 210, 188);
+}
+
+.container .right-side{
+
+}
+
+.me{
+    border-radius: 50%;
+    margin-top: 50px;
+    justify-content: center;
+}
+
+#name{
+font-weight: bold;
+font-size: 30px;
+}
+
+#div_desc{
+text-align: center;
+}
+
+#ul_desc li{
+display: inline-block;
+text-align: left;
+}
+
+#contact{
+
+}
+
+p{
+
+}
+
+a{
+    text-decoration: none;
+    color:rgb(226, 210, 188);
+}
+
+
